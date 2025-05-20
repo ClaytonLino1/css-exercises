@@ -1,0 +1,20 @@
+.base_class {
+    background-color: rgb(241, 186, 195);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.big_text {
+    font-size: 36px;
+}
+
+#big_blue {
+    color: rgb(8, 8, 228);
+    font-size: 36px;
+}
+
+#green_id {
+    background-color: rgb(156, 241, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
+
